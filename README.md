@@ -2,7 +2,7 @@ Hi and welcome!
 
 I am a former strategy consultant and supply chain director with passion for IT, Programming, Data Science and Artificial Intelligence.
 
-Some technical highlights:
+Top 3 technical highlights:
  
  :cloud_with_rain: Built a rain forecasting model by using next image prediction (see repository Meteo)
  
