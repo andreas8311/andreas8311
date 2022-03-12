@@ -5,7 +5,7 @@ I am a former strategy consultant and supply chain director with passion for IT,
 Some technical highlights:
  - Built a rain forecasting model by using next image prediction (see repository Meteo)
  - Built my own version of DeepMind's AlphaZero but for the game Connect4 (repository to be shared shortly)
- - Achieved Legendary status on CodinGame Bot programming (username AndreasNEO)
+ - Achieved legendary status on CodinGame Bot programming (username AndreasNEO)
 
 Thanks
 
