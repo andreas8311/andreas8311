@@ -7,7 +7,6 @@ Some technical highlights:
  - Built my own version of DeepMind's AlphaZero but for the game Connect4 (repository to be shared shortly)
  - Achieved legendary status on CodinGame Bot programming (username AndreasNEO)
 
-Thanks
 
 <!--
 **andreas8311/andreas8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
