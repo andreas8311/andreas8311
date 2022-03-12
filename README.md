@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi and welcome!
+
+I am a former strategy consultant and supply chain director with passion for IT, Programming, Data Science and Artificial Intelligence.
+
+Some technical highlights:
+ - Built a rain forecasting model by using next image prediction (see repository Meteo)
+ - Built my own version of DeepMind's AlphaZero but for the game Connect4 (repository to be shared shortly)
+ - Achieved Legendary status on CodinGame Bot programming (username AndreasNEO)
+
+Thanks
 
 <!--
 **andreas8311/andreas8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
