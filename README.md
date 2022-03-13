@@ -7,6 +7,13 @@ Top 3 technical highlights:
  - :robot: => Built my own version of DeepMind's AlphaZero but for the game Connect4 (repository to be shared shortly)
  - :video_game: => Achieved legendary status on CodinGame Bot programming (username AndreasNEO)
 
+Studies and Certifications:
+ - Le Wagon 2022 => Bootcamp in Data Science and Artificial Intelligence
+ - INSEAD 2015 => Strategy Programme
+ - Cranfield 2011 => MSc in Logistics and Supply Chain Management
+ - Jönköping =>BSc Production Engineering
+
+Languages => 🇸🇪 🇫🇷 🇬🇧
 
 <!--
 **andreas8311/andreas8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
