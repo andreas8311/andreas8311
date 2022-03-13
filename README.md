@@ -13,7 +13,6 @@ Studies and Certifications:
  - Cranfield 2011 => MSc in Logistics and Supply Chain Management
  - Jönköping =>BSc Production Engineering
 
-Languages => 🇸🇪 🇫🇷 🇬🇧
 
 <!--
 **andreas8311/andreas8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
