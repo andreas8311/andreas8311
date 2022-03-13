@@ -11,7 +11,7 @@ Studies and Certifications:
  - Le Wagon 2022 => Bootcamp in Data Science and Artificial Intelligence
  - INSEAD 2015 => Strategy Programme
  - Cranfield 2011 => MSc in Logistics and Supply Chain Management
- - Jönköping =>BSc Production Engineering
+ - Jönköping 2005 =>BSc Production Engineering
 
 
 <!--
