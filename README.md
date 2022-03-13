@@ -7,7 +7,7 @@ Top 3 technical highlights:
  - :robot: => Built my own version of DeepMind's AlphaZero but for the game Connect4 (repository to be shared shortly)
  - :video_game: => Achieved legendary status on CodinGame Bot programming (username AndreasNEO)
 
-Studies and Certifications:
+Main studies:
  - Le Wagon 2022 => Bootcamp in Data Science and Artificial Intelligence
  - INSEAD 2015 => Strategy Programme
  - Cranfield 2011 => MSc in Logistics and Supply Chain Management
