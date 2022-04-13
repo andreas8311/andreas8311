@@ -6,6 +6,8 @@ Top 3 technical highlights:
  - :cloud_with_rain: => Built a rain forecasting model by using next image prediction (see repository Meteo)
  - :robot: => Built my own version of DeepMind's AlphaZero but for the game Connect4 (repository to be shared shortly)
  - :video_game: => Achieved legendary status on CodinGame Bot programming (username AndreasNEO)
+ - ⚡ => Built AI data analysis dashboard for Retail client (Python, Scikit-learn)
+ - :lock: => Built several Python Django projects with user authentication (Django, Django Rest, ReactJS)
 
 Main studies:
  - Le Wagon 2022 => Bootcamp in Data Science and Artificial Intelligence
